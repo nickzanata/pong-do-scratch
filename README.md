@@ -1,1 +1,1 @@
-# pong-do-scratch
+# pong
